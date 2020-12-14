@@ -1,0 +1,2 @@
+DELETE FROM usr
+WHERE id = 3;
